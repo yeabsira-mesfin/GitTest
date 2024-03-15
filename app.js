@@ -1,1 +1,1 @@
-console.log("My fist app!");
+console.log("My fist app! ");
